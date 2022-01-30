@@ -6,6 +6,8 @@ Jeg har siddet og kigget lidt på denne dejlige resource og så tænkte jeg på 
 
 Dette er en drag and drop resource. Den er også standalone.
 
+Dog skal du være opmærksom på at skriften kan overlappe det blå i siden hvis du vælger EU versionen
+
 # OBS
 
 Jeg har udelukkende lavet billedet til nummerpladen. Jeg har ikke lavet scriptet. 
