@@ -1,5 +1,5 @@
 --- IMAGE CONFIG HERE ---
-imageUrl = "Image URL Here" -- Paste your image URL here (doesn't have to be from imgur)
+imageUrl = "https://cdn.discordapp.com/attachments/835139900088254465/937403348120899594/dansknummerpladefivem.png" -- Paste your image URL here (doesn't have to be from imgur)
 
 
 -- The actual script --
