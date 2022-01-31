@@ -1,7 +1,8 @@
 --- IMAGE CONFIG HERE ---
 -- Numerplade uden EU: https://cdn.discordapp.com/attachments/835139900088254465/937403348120899594/dansknummerpladefivem.png
 -- Nummerplade med EU: https://cdn.discordapp.com/attachments/835139900088254465/937410567113699429/dansknummerpladefivemmedeu.png
-
+-- Nummerplade med holder uden EU: https://cdn.discordapp.com/attachments/835139900088254465/937632090021834752/dansknummerplademedholder.png
+-- Nummerplade med holder med EU: https://cdn.discordapp.com/attachments/835139900088254465/937632024745869362/dansknummerplademedholdereu.png
 imageUrl = "Nummerplade URL" -- Smid linket ind til nummerpladen du gerne vil have, kan ses ovenfor
 
 
